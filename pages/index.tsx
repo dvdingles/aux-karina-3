@@ -1,7 +1,7 @@
 import { OrbitControls } from '@react-three/drei'
+import { Canvas } from '@react-three/fiber'
 import type { NextPage } from 'next'
 import { Suspense } from 'react'
-import { Canvas } from 'react-three-fiber'
 import Solo from '../components/Solo'
 
 
