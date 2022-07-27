@@ -32,4 +32,4 @@ export default function Karina({ ...props }) {
   );
 }
 
-useGLTF.preload("/karina-casa1.gltf");
+useGLTF.preload("/karina.gltf");
